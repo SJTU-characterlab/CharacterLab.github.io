@@ -1,6 +1,15 @@
 ---
 layout: articles
 title: Articles - Item (Cover + Excerpt + Read More + Info)
+articles:
+  data_source: site.sample_page
+  # data_source: paginator.posts
+  # data_source: site.posts
+  # article_type: BlogPosting
+  #show_cover: false
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
   # @start locale config
   en      : &EN       Home
   en-GB   : *EN
@@ -24,16 +33,7 @@ title: Articles - Item (Cover + Excerpt + Read More + Info)
   fr-LU   : *FR
   # @end locale config
 show_title: false
-articles:
-  type: item
-  data_source: site.sample_page
-  # data_source: paginator.posts
-  # data_source: site.posts
-  # article_type: BlogPosting
-  #show_cover: false
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
+
 ---
 <div class="layout--home">
   {%- include paginator.html -%}
