@@ -4,7 +4,7 @@ title: Preserving gaze direction in teleconferencing using a camera array and a 
 mathjax: true
 articles: 
   data_source: site.sample_page
-  type: item
+  # type: item
   #show_excerpt: true
   #show_info: true
   #show_readmore: true
