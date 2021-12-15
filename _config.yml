@@ -55,8 +55,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
-repository_tree: master
+repository: SJTU-characterlab/SJTU-characterlab.github.io
+repository_tree: main
 
 
 ## => Paths
@@ -225,4 +225,5 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-text-theme
