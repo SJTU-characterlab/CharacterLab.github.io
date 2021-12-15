@@ -1,7 +1,11 @@
 ---
 layout: article
-title: Preserving gaze direction in teleconferencing using a camera array and a spherical display
+title: Preserving gaze direction in teleconferencing using a camera array and a spherical display - Item (Cover + Excerpt + Read More)
 mathjax: true
+articles:
+  data_source: site.sample_page
+  show_excerpt: true
+  show_readmore: true
 ---
 
 [link](https://ieeexplore.ieee.org/document/6365433)
