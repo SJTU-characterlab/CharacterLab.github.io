@@ -27,7 +27,7 @@ key: page-about
 ---
 
 ![Lab Logo](https://github.com/SJTU-characterlab/SJTU-characterlab.github.io/blob/main/assets/android-chrome-512x512.png)
-
+<img src="https://github.com/SJTU-characterlab/SJTU-characterlab.github.io/blob/main/assets/android-chrome-512x512.png">
 **Character Lab** is a research group in the Department of Computer Science Shanghai Jiao Tong University, Shanghai, China. Professor is Ye Pan[[Google Scholar Page]](https://scholar.google.com/citations?user=_dhf9mQAAAAJ&hl=zh-CN&oi=ao).
 
 Our research interests include computer human interaction, virtual environments, computer supported cooperative work, telepresence displays, avatars, computer graphics, social interaction.
