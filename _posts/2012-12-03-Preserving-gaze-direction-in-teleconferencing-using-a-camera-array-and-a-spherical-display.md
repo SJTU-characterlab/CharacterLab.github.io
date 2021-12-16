@@ -9,6 +9,6 @@ articles:
   show_info: true
 cover: /Paper_pics/sphereVideo.jpg
 ---
-Ye Pan, Anthony Steed
+Ye Pan, Anthony Steed &ensp;
 [link](https://ieeexplore.ieee.org/document/6365433){:.button.button--primary.button--pill}
 [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6365433){:.button.button--primary.button--pill}
