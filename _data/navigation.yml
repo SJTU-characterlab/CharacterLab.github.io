@@ -47,7 +47,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /archive.html
+    url: /teaching.html
     
   - titles:
       # @start locale config
@@ -72,7 +72,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /archive.html
+    url: /research.html
 
   - titles:
       # @start locale config
