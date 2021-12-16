@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-2021.9 ~ 2022.1 **Computer Animation Design And Date Visualization**
+2021.9 ~ 2022.1 **Computer Animation Design And Data Visualization**
