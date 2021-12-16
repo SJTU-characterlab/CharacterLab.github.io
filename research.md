@@ -26,6 +26,6 @@ titles:
 key: page-about
 ---
 
-# BEAMING Project Telepresence
+BEAMING Project Telepresence
 
 Today, in spite of advanced video conferencing, shared virtual environments, and gaming environments such as Second Life, it is still simply much more efficient to physically travel to remote location for business, scientific or family meetings—even if at a huge environmental, energetic and opportunity cost. The science and technology developed in BEAMING will for the first time give people a real sense of physically being in a remote location with other people, and vice versa—without actually travelling.
