@@ -9,5 +9,5 @@ articles:
   show_info: true
 cover: /Paper_pics/sphereVideo.jpg
 ---
-**Ye Pan, Anthony Steed** &emsp;
-[link](https://ieeexplore.ieee.org/document/6365433){:.button.button--primary.button--pill}
+**Ye Pan**, Anthony Steed &emsp;
+[[link]](https://ieeexplore.ieee.org/document/6365433)
